@@ -1,0 +1,97 @@
+html, body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(236, 236, 236);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 350;
+    font-stretch: normal;
+}
+
+content.thanks{
+    color: #096fb3;
+}
+
+a{
+    font-family: monospace;
+    color: #096fb3;
+    text-decoration: none !important;
+}
+
+a.undecorated{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #096fb3;
+    text-decoration: none !important;
+}
+
+code {
+    font-family: monospace;
+    font-weight: normal;
+}
+
+header {
+    display: block;
+    margin: 5%;
+}
+
+footer{
+    font-size: smaller;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 2%;
+}
+
+body {
+    margin: auto;
+    max-width: 1200px;
+}
+
+main {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+    margin-bottom: 2%;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background-image: -webkit-linear-gradient(left, transparent, rgb(179, 179, 179), transparent);
+    background-image: -moz-linear-gradient(left, transparent, rgb(179, 179, 179), transparent);
+    background-image: -ms-linear-gradient(left, transparent, rgb(179, 179, 179), transparent);
+    background-image: -o-linear-gradient(left, transparent, rgb(179, 179, 179), transparent); 
+}
+
+h1, h2, h2, h4, h5, h6 {
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 450;
+    font-stretch: normal;
+    font-size: 2rem;
+    line-height: 1.3em;
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
+
+td, tr, th {
+    border: 2px solid #ccc;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    text-align: left;    
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #ccc;
+}
+
+tbody tr:nth-child(even) {
+    background-color:#eee;
+}
+
+img {
+    border-radius: 100px;
+}

@@ -9,6 +9,13 @@ Member and supporter of <a class="undecorated" href="https://www.wikimedia.it/">
 
 cttynul, afk known as Alessandro, yep, I'm Italian 🍕
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cttynul&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cttynul&repo=convoychat" />
+</a>
+
 ## 📪 Contact
 - Email is on my GiHub Homepage
 

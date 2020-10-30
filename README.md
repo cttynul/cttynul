@@ -9,7 +9,7 @@ Member and supporter of <a class="undecorated" href="https://www.wikimedia.it/">
 
 cttynul, afk known as Alessandro, yep, I'm Italian 🍕
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cttynul&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cttynul&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cttynul)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cttynul&count_private=true)
 
 ## 📪 Contact
 - Email is on my GiHub Homepage

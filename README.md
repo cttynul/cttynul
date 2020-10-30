@@ -12,30 +12,6 @@ cttynul, afk known as Alessandro, yep, I'm Italian 🍕
 ## 📪 Contact
 - Email is on my GiHub Homepage
 
-## 💻 Open Source Projects
-<ul>
-            <li><a href="https://github.com/cttynul/gimpshop-reloaded">gimpshop-reloaded</a> - ✏️ Best free alternative to Adobe Photoshop™</li>
-            <li><a href="https://github.com/cttynul/edge-adblock">edge-adblock</a> - 🚫 Ad/Malware hosts block script for Windows™</li>
-            <li><a href="https://github.com/cttynul/tper_telegram_bot">tper_telegram_bot</a> - 🚍 Telegram bot to check when TPER™ autobus will come in Bologna</li>
-            <li><a href="https://github.com/cttynul/caffeine">caffeine</a> - ☕️ Caffeine for Windows™ with flat UI</li>
-            <li><a href="https://github.com/cttynul/ccva">ccva</a> - 🔒 Hide and crypt your files into another one</li>
-            <li><a href="https://github.com/cttynul/aes256-password-manager">aes256-password-manager</a> - 🔑 Portable, secure and open source AES256 password manager</li>
-            <li><a href="https://github.com/cttynul/powershell-batch-scripts">powershell-batch-scripts</a> - 🖥️ Stupid Powershell/Batch scripts to make my life easier</li>
-          </ul>  
-
-## 🍿 Kodi™ Add-ons
-<ul>
-            <li><a href="https://github.com/cttynul/plugin.video.kod">plugin.video.kod</a> - This just provides you Italian contents, member of KOD Team, check <a href="https://github.com/kodiondemand/addon">official repo</a></li>
-            <li><a href="https://github.com/cttynul/plugin.video.vvvvid">plugin.video.vvvvid</a> - View your favourite VVVVID.it content in an easly way, account needed</li>
-            <li><a href="https://github.com/cttynul/plugin.video.f4mTester">plugin.video.f4mTester</a> - Solve and play easly HDS streams with some cool setting streaming feature</li>
-            <li><a href="https://github.com/cttynul/plugin.video.live.streamspro">plugin.video.live.streamspro</a> - Add and play local or remote source in your media center</li>
-            <li><a href="https://github.com/cttynul/plugin.video.raitv">plugin.video.raitv</a> - Kodi plugin for RAI, originally developed by <a href=https://github.com/nightflyer73/>nightflyer73</a> ported to Python 3</li>
-            <li><a href="https://github.com/cttynul/plugin.video.mediasetplay">plugin.video.mediasetplay</a> - Kodi Addon che permette di sfogliare e riprodurre i contenuti dal sito Mediaset Play, originally developed by <a href=https://github.com/kodi-bino/>kodi-bino</a> ported to Python 3</li>
-            <li><a href="https://github.com/cttynul/plugin.video.dplay">plugin.video.dplay</a> - Kodi unofficial plugin for Dplay, originally developed by <a href=https://github.com/NeverWise/>NeverWise</a> ported to Python 3</li>
-            <li><a href="https://github.com/cttynul/plugin.video.cielotv">plugin.video.cielotv</a> - Kodi add-on to watch Cielo, TV8 and Sky TG24 live.</li>
-            <li><a href="https://github.com/cttynul/script.module.neverwise">script.module.neverwise</a> - NeverWise Kodi tools, originally developed by <a href=https://github.com/NeverWise/>NeverWise</a> ported to Python 3</li>
-</ul>
-
 ## 📰 Nice to read
 <ul>
             <li><a href="https://opensource.com/open-source-way" rel="nofollow">The open source way</a> - opensource.com</li>

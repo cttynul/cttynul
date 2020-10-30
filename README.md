@@ -1,16 +1,9 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>here's cttynul</title>
-    <link rel="stylesheet" href="style.css"/>
-  <body>
-      <main>
+
         <h2>👨‍💻 About</h2>
         <p>I'm a freelance full stack developer and systems architect, religiously pythonist, serial .NET job offers decliner, in an hate-love reletionship with Javascript and Electron Framework mainly cause his spaghetti coding.
           <br>Worked on a couple of .NET, Python and <code>< insert random programming language here ></code> open source projects, still maintaining one out of three, check out my GitHub repos for more.
           <br>Member and supporter of <a class="undecorated" href="https://www.wikimedia.it/">Wikimedia Italia</a>, <a class="undecorated" href="https://kodi.tv/">Kodi/XBMC Foundation</a>, <a class="undecorated" href="https://foundation.mozilla.org/">Mozilla Foundation</a> and <a class="undecorated"  href="http://bfy.tw/1kSo">Blockchain Technology</a>.
-          <br><br><i>"My relationship with Windows is like a relationship between a drug addicted and his dealer, I'm not proud to go to him but I know i will come back soon."</i>
+          <br><br><i>My relationship with Windows is like a relationship between a drug addicted and his dealer, I'm not proud to go to him but I know i will come back soon.</i>
           <br><br>
           - cttynul, afk known as Alessandro, yep, I'm Italian 🍕
         </p>

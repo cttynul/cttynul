@@ -1,24 +1,19 @@
 ## 👨‍💻 About
 I'm a freelance full stack developer and systems architect, religiously pythonist, serial .NET job offers decliner, in an hate-love reletionship with Javascript and Electron Framework mainly cause his spaghetti coding.
+
 Worked on a couple of .NET, Python and <code>< insert random programming language here ></code> open source projects, still maintaining one out of three, check out my GitHub repos for more.
+        
 Member and supporter of <a class="undecorated" href="https://www.wikimedia.it/">Wikimedia Italia</a>, <a class="undecorated" href="https://kodi.tv/">Kodi/XBMC Foundation</a>, <a class="undecorated" href="https://foundation.mozilla.org/">Mozilla Foundation</a> and <a class="undecorated"  href="http://bfy.tw/1kSo">Blockchain Technology</a>.
 
 <i>My relationship with Windows is like a relationship between a drug addicted and his dealer, I'm not proud to go to him but I know i will come back soon.</i>
-- cttynul, afk known as Alessandro, yep, I'm Italian 🍕
 
-        <h2>📪 Contact</h2>
-        <ul>
-            <li>
-              <script type="text/javascript">
-                document.write("<a href=\"mail" + "to:" + new Array("cttynul","outlook.com").join("@") + "\">" + "Mail" + "</" + "a> - mail me, I could answer");
-              </script>
-            </li>
-            <li><a href="https://medium.com/@cttynul" rel="nofollow">Medium</a> - never use it but it's cool</li>
-            <li><a href="https://github.com/cttynul" rel="nofollow">Github</a> - home of my GitHub repo, btw you can find a couple of my projects here</li>
-        </ul>
-        
-        <h2>💻 Open Source Projects</h2>
-          <ul>
+cttynul, afk known as Alessandro, yep, I'm Italian 🍕
+
+## 📪 Contact
+- Email is on my GiHub Homepage
+
+## 💻 Open Source Projects
+<ul>
             <li><a href="https://github.com/cttynul/gimpshop-reloaded">gimpshop-reloaded</a> - ✏️ Best free alternative to Adobe Photoshop™</li>
             <li><a href="https://github.com/cttynul/edge-adblock">edge-adblock</a> - 🚫 Ad/Malware hosts block script for Windows™</li>
             <li><a href="https://github.com/cttynul/tper_telegram_bot">tper_telegram_bot</a> - 🚍 Telegram bot to check when TPER™ autobus will come in Bologna</li>
@@ -28,7 +23,7 @@ Member and supporter of <a class="undecorated" href="https://www.wikimedia.it/">
             <li><a href="https://github.com/cttynul/powershell-batch-scripts">powershell-batch-scripts</a> - 🖥️ Stupid Powershell/Batch scripts to make my life easier</li>
           </ul>  
 
-        <h2>🍿 Kodi™ Add-ons</h2>
+## 🍿 Kodi™ Add-ons
           <ul>
             <li><a href="https://github.com/cttynul/plugin.video.kod">plugin.video.kod</a> - This just provides you Italian contents, member of KOD Team, check <a href="https://github.com/kodiondemand/addon">official repo</a></li>
             <li><a href="https://github.com/cttynul/plugin.video.vvvvid">plugin.video.vvvvid</a> - View your favourite VVVVID.it content in an easly way, account needed</li>
@@ -41,22 +36,19 @@ Member and supporter of <a class="undecorated" href="https://www.wikimedia.it/">
             <li><a href="https://github.com/cttynul/script.module.neverwise">script.module.neverwise</a> - NeverWise Kodi tools, originally developed by <a href=https://github.com/NeverWise/>NeverWise</a> ported to Python 3</li>
           </ul>
 
-        <h2>📰 Nice to read</h2>
+## 📰 Nice to read
         <ul>
             <li><a href="https://opensource.com/open-source-way" rel="nofollow">The open source way</a> - opensource.com</li>
             <li><a href="https://www.quora.com/Why-is-DRM-a-bad-thing" rel="nofollow">Why is DRM a bad thing?</a> - quora.com</li>
             <li><a href="https://saveyourinternet.eu/" rel="nofollow">#SaveYourInternet - Fight the #CensorshipMachine</a> - saveyourinternet.eu</li>        
         </ul>
 
-        <h2>❤️ Thanks</h2>
+## ❤️ Thanks
         <ul>
           <li>To <content class="thanks">my father</content> 👨‍ who gave me computer and coding passion, gifting me my first computer and Visual Basic 6.0 book</li>
         </ul>        
     </main>
     <footer>
-      <!--<hr>-->
+      
       <p>Kodi is a registered trademark of the XBMC Foundation.</p>
       <p>Layout inspired to <a href=https://github.com/asciidisco/about.me>asciidisco</a> and <a href="https://github.com/dkundel/about-me">dkundel</a> templates, (re)published under <a href="https://github.com/cttynul/cttynul.github.io/blob/master/LICENSE">Mozilla Public License 2.0</a></p>
-    </footer>
-  </body>
-</html>

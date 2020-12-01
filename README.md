@@ -10,7 +10,7 @@ Member and supporter of <a class="undecorated" href="https://www.wikimedia.it/">
 cttynul, afk known as Alessandro, yep, I'm Italian 🍕
 
 ## 💻 Stats
-![cttynul's github stats](https://github-readme-stats.vercel.app/api?username=cttynul&count_private=true&show_icons=true)
+![cttynul's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cttynul&layout=compact&exclude_repo=needflix,m3d5-password-manager)
 
 ## 📪 Contact
 - Email is on my GiHub Homepage

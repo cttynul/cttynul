@@ -1,5 +1,5 @@
 ## 👨‍💻 About
-I'm a freelance full stack developer and systems architect, religiously pythonist, serial .NET job offers decliner, in an hate-love reletionship with Javascript and Electron Framework mainly cause his spaghetti coding.
+I'm a full stack developer and systems architect, religiously pythonist, serial .NET job offers decliner, in an hate-love reletionship with Javascript and Electron Framework mainly cause his spaghetti coding.
 
 Worked on a couple of .NET, Python and <code>< insert random programming language here ></code> open source projects, still maintaining one out of three, check out my GitHub repos for more.
         
@@ -20,6 +20,12 @@ cttynul, afk known as Alessandro, yep, I'm Italian 🍕
             <li><a href="https://opensource.com/open-source-way" rel="nofollow">The open source way</a> - opensource.com</li>
             <li><a href="https://www.quora.com/Why-is-DRM-a-bad-thing" rel="nofollow">Why is DRM a bad thing?</a> - quora.com</li>
             <li><a href="https://saveyourinternet.eu/" rel="nofollow">#SaveYourInternet - Fight the #CensorshipMachine</a> - saveyourinternet.eu</li>        
+</ul>
+        
+## 🎙️ Nice to listen to
+<ul>
+            <li><a href="https://www.youtube.com/channel/UCqECaJ8Gagnn7YCbPEzWH6g" rel="nofollow">Taylor Swift</a> - yt.be</li>
+            <li><a href="https://www.youtube.com/channel/UCL2Z6dm0rDoV_er7y30TuRw" rel="nofollow">Ana Mena</a> - yt.be</li>
 </ul>
 
 ## ❤️ Thanks

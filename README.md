@@ -1,5 +1,5 @@
 ## 👨‍💻 About
-I'm a full stack developer and systems architect, religiously pythonist, serial .NET job offers decliner, in an hate-love reletionship with Javascript and Electron Framework mainly cause his spaghetti coding.
+I'm a full stack developer and systems architect, religiously pythonist, serial .NET job offers decliner.
 
 Worked on a couple of .NET, Python and <code>< insert random programming language here ></code> open source projects, still maintaining one out of three, check out my GitHub repos for more.
         
